@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Ubuntu', sans-serif;
+}
+section{
+	height: fit-content;
+}
+.container .main{
+	padding: 20px;
+}
+.text-center.heading{
+	background: #000;
+    padding: 10px;
+	color: #fff;
+}
+#signup-form-id{
+	padding: 0 10%;
+}
+.valid-feedback, .invalid-feedback{
+	display: none;
+}
+/* @media only screen and (max-width: 814px) {
+	#signup-form{
+		width: 335px;
+		margin: 20px, auto;
+	}
+	.text-center{
+		padding: 30px;
+	}
+} */
