@@ -1,6 +1,6 @@
 // Reseting the Fields
 function resetFields() {
-  document.getElementById("signup-form-id").reset()
+  document.getElementById("reg-form-id").reset()
 
   document.getElementById("firstValid").style.display = "none";
   document.getElementById("lastValid").style.display = "none";
