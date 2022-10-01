@@ -6,6 +6,7 @@
 }
 section{
 	height: fit-content;
+	background-color: #d6dddd;
 }
 .container .main{
 	padding: 20px;
@@ -21,12 +22,3 @@ section{
 .valid-feedback, .invalid-feedback{
 	display: none;
 }
-/* @media only screen and (max-width: 814px) {
-	#signup-form{
-		width: 335px;
-		margin: 20px, auto;
-	}
-	.text-center{
-		padding: 30px;
-	}
-} */
