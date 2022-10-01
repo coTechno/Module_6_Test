@@ -16,8 +16,8 @@ section{
     padding: 10px;
 	color: #fff;
 }
-#signup-form-id{
-	padding: 0 10%;
+#reg-form-id{
+	padding: 0 13%;
 }
 .valid-feedback, .invalid-feedback{
 	display: none;
